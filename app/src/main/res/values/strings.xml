@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">State App</string>
+  <string name="toggle_parent_state">Toggle parent state</string>
+  <string name="click_to_toggle_child_state">Click to toggle child state</string>
+</resources>
